@@ -1,0 +1,7 @@
+2 100 4 10 Baja 323 Szeged 487 1 1
+2 1 4 10 alma 1020 keksz 1050 1 1
+1 1 9 5 Budapest 825 Gyor 899 25 8
+1 1 2 3 Pecs 555 Dombovar 625 3 4
+2 1 4 10 alma 111 keksz 888 1 1
+1 1 1 1 1 61 1 61 1 1
+1 1 1 1 1 610 1 671 321 123
