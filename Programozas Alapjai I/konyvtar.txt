@@ -1,0 +1,4 @@
+Dune;Frank Herbert;Sci-Fi;1962;Nincs kikolcsonozve
+Vuk;Istvan Fekete;Adventure;1965;Ved Elek
+A Song of Ice and Fire;George R. R. Martin;Fantasy;1996;Nagy Sandor
+Murder on the Orient Express;Agatha Christie;Thriller;1934;Korm Odon
